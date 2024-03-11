@@ -1,0 +1,23 @@
+Tempo utilizzo cpu = - Tempo attesa eventi = []
+
+mono-tsaking 
+
+
+P4                -------[]
+P3              --
+P2         ---[]
+P1-----[]-- 
+
+multi-tasking
+
+P4            ------[]
+P3          --
+P2    ----[]
+P1----[][]--
+
+time-sharing
+ 
+P4      --    --  --  --  --
+P3    --
+P2  --      --
+P1--      --        --  --  --
